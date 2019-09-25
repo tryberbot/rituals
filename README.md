@@ -1,2 +1,3 @@
 # rituals
 bot rituals
+foo
